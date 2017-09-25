@@ -2,10 +2,10 @@
 
 > Vous pouvez retrouver mon app en ligne sur le store de votre mobile iOS ou android
 
-<img src="img/capture.png">
+<img src="capture.png">
 
 ## Fait avec :
-<img src="img/firebase.png"> + <img src="img/react-native.png">
+<img src="firebase.png"> + <img src="react-native.png">
 
 ## Travail effectué
 * Creation d'une vue login et logout
