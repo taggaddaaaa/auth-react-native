@@ -5,7 +5,8 @@
 <img src="capture.png">
 
 ## Fait avec :
-<img src="firebase.png"> + <img src="react-native.png">
+<img src="firebase.png">
+<img src="react-native.png">
 
 ## Travail effectué
 * Creation d'une vue login et logout
